@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "scripts": {
+    "prepublish": "dts-generator --name derp --baseDir . --main index --out derp-package.d.ts index.ts"
+  },
+  "devDependencies": {
+    "dts-generator": "^1.5.0"
+  }
+}
