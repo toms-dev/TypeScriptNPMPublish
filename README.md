@@ -1,4 +1,4 @@
-# Publishing TypeScript library on NPM made easy!
+# Publishing a TypeScript module on NPM made easy!
 
 Distributing TypeScript package on NPM is not as straightforward as it should be, that's why I decided to put together the information I gathered while addressing the issue.
  
