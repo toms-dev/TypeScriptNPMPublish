@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+!typings.d.ts
+**.d.ts
+**.js
