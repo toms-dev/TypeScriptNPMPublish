@@ -2,6 +2,7 @@
 
 import myModule = require('my_module_es6');	// this won't work if target ES6
 import myModuleDefault, {MyClass, AnotherClass} from 'my_module_es6';
+//import myModuleDefault, {MyClass, AnotherClass} from './node_modules/my_module_es6/index';
 
 // From named import
 var obj = new MyClass();
