@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea
+#**.d.ts
 !**/typings.d.ts
-**.d.ts
 **.js
+**.js.map
